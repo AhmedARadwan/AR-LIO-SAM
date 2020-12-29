@@ -1,0 +1,16 @@
+Header header
+float64 steering_angle
+uint8 status
+uint8 gps_status
+uint8 speed
+uint8 scenario
+uint16 point
+uint16 current_waypoint_index
+uint16 point_to_end_trajectory
+float64 lateral_error
+float64 long_error
+float64 dist_to_start_waypoint
+float64 dist_to_traffic_light
+bool gps_is_alive
+bool waypoint_follower_is_ready
+bool end_trajectory

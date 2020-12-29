@@ -1,0 +1,7 @@
+<launch>
+    <node pkg="lidar_imu_calib" type="calib_exR_lidar2imu_node" name="calib_exR_lidar2imu_node" output="screen">
+        <param name="/lidar_topic" value="/points"/>
+        <param name="/imu_topic" value="/imu/data"/>
+        <param name="/bag_file" value="/media/adasone/18e43970-02b5-453b-a8c7-73913f0dcfdf/20201223_slam_rosbags/3/2020-12-23-15-12-19_7.bag"/>
+    </node>
+</launch>

@@ -1,0 +1,4 @@
+float32 rttc
+float32 fusion_dist
+float32 fusion_rel_vel
+int32 fusion_id

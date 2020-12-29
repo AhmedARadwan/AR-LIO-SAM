@@ -1,0 +1,12 @@
+Header header
+float64 steering
+float64 velocity
+float64 accel_decel
+uint8 gear_pos
+uint8 led_mode
+uint8 lkas_gps_status
+bool actuator_active 
+bool emergency_stop
+bool aeb_half
+bool aeb_full
+bool traffic_light_wait

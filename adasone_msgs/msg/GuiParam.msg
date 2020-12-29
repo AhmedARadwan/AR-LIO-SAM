@@ -1,0 +1,6 @@
+Header header
+bool running_status
+uint8 vision_mode
+uint8 vision_scenario
+bool recoding_status
+string log_path
